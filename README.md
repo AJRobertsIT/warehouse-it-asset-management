@@ -68,15 +68,26 @@ The project includes a detailed asset inventory and an executive dashboard for r
 
 ## Screenshots
 
-### Asset Inventory
+### Asset Inventory (Part 1)
 
-![Asset Inventory](Asset-Inventory.png)
+![Asset Inventory Part 1](Asset-Inventory.png)
 
-### Dashboard
+### Asset Inventory (Part 2)
+
+![Asset Inventory Part 2](Asset-Inventory2.png)
+
+### IT Asset Management Dashboard
 
 ![Dashboard](Dashboard.png)
 ---
+## Project Highlights
 
+- Managed an inventory of 33 simulated IT assets
+- Documented warehouse workstations, laptops, barcode scanners, printers, servers, and networking equipment
+- Applied standardized asset naming conventions
+- Created an executive dashboard for management reporting
+- Used conditional formatting to track asset status (Active, Maintenance, Retired)
+---
 ## Lessons Learned
 
 This project improved my understanding of enterprise IT asset management, inventory organization, technical documentation, and reporting. It also reinforced the importance of maintaining accurate records for operational support and hardware lifecycle management.
