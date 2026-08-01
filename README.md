@@ -69,15 +69,15 @@ The project includes a detailed asset inventory and an executive dashboard for r
 
 ### Asset Inventory (Part 1)
 
-![Asset Inventory Part 1](Asset-Inventory.png)
+![Asset Inventory Part 1](./Asset-Inventory.png)
 
 ### Asset Inventory (Part 2)
 
-![Asset Inventory Part 2](Asset-Inventory2.png)
+![Asset Inventory Part 2](./Asset-Inventory2.png)
 
 ### IT Asset Management Dashboard
 
-![Dashboard](Dashboard.png)
+![Dashboard](./Dashboard.png)
 ---
 ## Project Highlights
 
