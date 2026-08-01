@@ -70,11 +70,11 @@ The project includes a detailed asset inventory and an executive dashboard for r
 
 ### Asset Inventory
 
-*(Insert your Asset Inventory screenshot here.)*
+Asset-Inventory.png
 
 ### Dashboard
 
-*(Insert your Dashboard screenshot here.)*
+Dashboard.png
 
 ---
 
