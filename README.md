@@ -75,7 +75,6 @@ The project includes a detailed asset inventory and an executive dashboard for r
 ### Dashboard
 
 ![Dashboard](images/Dashboard.png)
-
 ---
 
 ## Lessons Learned
