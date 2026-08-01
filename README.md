@@ -1,5 +1,4 @@
-# Enterprise IT Asset Management System
-
+# Warehouse IT Asset Management System
 ## Overview
 
 This project simulates an enterprise IT asset management system for a warehouse and distribution environment. It demonstrates how IT departments organize, document, and track technology assets that support warehouse operations.
